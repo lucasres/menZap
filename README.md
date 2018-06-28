@@ -19,9 +19,14 @@ Importe para a sua página:
 Exemplo de uso, informe o id de um elemento e o efeito que você deseja
 
 
+
 ```
-(function(){
-  menZap("elemento","typeWriter");
+<p id="exemplo"></p>
+
+<script>
+document.ready(function(){
+  menZap("exemplo","typeWriter")
 });
+</script>
 ```
 
