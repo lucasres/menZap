@@ -1,23 +1,22 @@
 # menZap
-puglin de js para mensagens de bom dia
+plugin for message of good morning
 
-## Instalação
+## Installation
 
-Clone o repositório:
+Clone the repositore
 ```
 git clone https://github.com/mandala21/menZap.git
 ```
 
-Importe para a sua página:
+Import the js file in your page:
 
 ```
 <script src="./path/menZap.js"></script>
 ```
 
-## Uso 
+## Use
 
-Exemplo de uso, informe o id de um elemento e o efeito que você deseja
-
+This is a single exemple
 
 
 ```
@@ -30,3 +29,8 @@ $(document).ready(function(){
 </script>
 ```
 
+## Suport
+
+Languages was supported
+
+Português - PT_BR
